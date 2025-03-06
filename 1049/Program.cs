@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Desafio1149
+namespace Desafio1049
 {
     internal class Program
     {
